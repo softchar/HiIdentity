@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiIdentityServer", "HiIdentityServer\HiIdentityServer.csproj", "{1009F8B9-2A43-49FD-A079-4E862EAC901C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiApi", "HiApi\HiApi.csproj", "{3056D990-E253-44C3-A3B4-98995C559E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiClient", "HiClient\HiClient.csproj", "{737027E9-FFF8-4194-B2AF-E20E518D085C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{1009F8B9-2A43-49FD-A079-4E862EAC901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1009F8B9-2A43-49FD-A079-4E862EAC901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1009F8B9-2A43-49FD-A079-4E862EAC901C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3056D990-E253-44C3-A3B4-98995C559E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3056D990-E253-44C3-A3B4-98995C559E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3056D990-E253-44C3-A3B4-98995C559E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3056D990-E253-44C3-A3B4-98995C559E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737027E9-FFF8-4194-B2AF-E20E518D085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737027E9-FFF8-4194-B2AF-E20E518D085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737027E9-FFF8-4194-B2AF-E20E518D085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737027E9-FFF8-4194-B2AF-E20E518D085C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\HiIdentityServer.csproj": {}
+    "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiApi\\HiApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\HiIdentityServer.csproj": {
+    "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiApi\\HiApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\HiIdentityServer.csproj",
-        "projectName": "HiIdentityServer",
-        "projectPath": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\HiIdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiApi\\HiApi.csproj",
+        "projectName": "HiApi",
+        "projectPath": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiApi\\HiApi.csproj",
         "packagesPath": "C:\\Nuget\\packages",
-        "outputPath": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\obj\\",
+        "outputPath": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,9 +44,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "IdentityServer4": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[4.1.2, )"
+              "version": "[6.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
