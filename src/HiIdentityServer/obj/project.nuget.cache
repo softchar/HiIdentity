@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEbHurjAw1bHNRbtQ+28t8Zjb/6JrZhZWjFWBvQR7pIPTNDoBLZ1FrpuXRSTdpdzih01xJ0EDg+iWDigGLByKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\softc\\Documents\\GitHub\\HiIdentity\\src\\HiIdentityServer\\HiIdentityServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
